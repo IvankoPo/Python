@@ -12,3 +12,5 @@
 ![Примеры ](https://github.com/IvankoPo/Python/raw/master/ImageFilters/lenaShum.jpg)
 ![Примеры ](https://github.com/IvankoPo/Python/raw/master/ImageFilters/lenaShumFiltered3.jpg)
 ![Примеры ](https://github.com/IvankoPo/Python/raw/master/ImageFilters/lenaShumFiltered5.jpg)
+![Примеры ](https://github.com/IvankoPo/Python/raw/master/ImageFilters/kopShum.png)
+![Примеры ](https://github.com/IvankoPo/Python/raw/master/ImageFilters/kopFiltered3.png)
